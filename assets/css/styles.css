@@ -1,0 +1,20 @@
+body,html{
+    margin:0
+    width:100%
+}
+
+html{
+    background-color:  #fdf2e9;
+}
+
+.bg-website{
+    background-color:  #fdf2e9;
+}
+
+.navbar{
+    background-color:  #f9e79f;
+}
+
+#landingnav{
+    background-color: #fad7a0;
+}
